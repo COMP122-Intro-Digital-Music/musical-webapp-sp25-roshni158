@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Alt Indie Guitar",
+    "file": "samples/Sample1.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Drums",
+    "file": "samples/Sample2.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Synths",
+    "file": "samples/Sample3.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
